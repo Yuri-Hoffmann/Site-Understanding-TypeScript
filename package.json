@@ -8,7 +8,7 @@
     "start": "lite-server"
   },
   "author": "koy",
-  "license": "ISC",
+  "license": "WTFPL",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
